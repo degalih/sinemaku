@@ -1,0 +1,27 @@
+{
+  "adult": false,
+  "backdrop_path": "/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "id": 1402,
+  "name": "The Walking Dead",
+  "number_of_episodes": 177,
+  "number_of_seasons": 11,
+  "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+  "popularity": 1672.139,
+  "poster_path": "/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
+  "vote_average": 8.1,
+  "vote_count": 12836
+}

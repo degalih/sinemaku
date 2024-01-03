@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "episodes": [
+    {
+      "episode_number": 1,
+      "id": 1,
+      "name": "name",
+      "overview": "overview",
+      "season_number": 1
+    }
+  ],
+  "name": "name",
+  "overview": "overview",
+  "season_number": 1
+}
